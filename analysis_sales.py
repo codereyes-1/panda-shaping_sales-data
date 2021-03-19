@@ -1,5 +1,5 @@
 # By Julio Daniel, 11 July 2020
-# I reproduced this experiment from https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+# I reproduced this demo from https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 import pandas as pd
 import os
